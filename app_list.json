@@ -16,6 +16,28 @@
       "disk": "500MB"
     },
     "screenshots": [
+      "https://private-user-images.githubusercontent.com/210547685/446269452-843cca78-d074-4356-903e-21b9f333d630.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgwMjA5NDYsIm5iZiI6MTc0ODAyMDY0NiwicGF0aCI6Ii8yMTA1NDc2ODUvNDQ2MjY5NDUyLTg0M2NjYTc4LWQwNzQtNDM1Ni05MDNlLTIxYjlmMzMzZDYzMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyM1QxNzE3MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lY2M3ZjM5MjlhNDY4ZTY0NmZhNTcwN2VkYjAyZGY4ODg1OTg2NWEyYTM1ZjNmYzc5M2M3Njk1MmI0YmNjNGQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.e8agzDLkQkLCwFkRiPNyXZ0bDKX3uarIrPWxprHFyCY"
     ]
   },
+  {
+    "name": "Github Relase Tracker ",
+    "description": "See how many people downloaded your repositories on github",
+    "version": "1.0.0",
+    "download_url": "https://github.com/sleepsweetly/download-tracker",
+    "update_url": "https://github.com/sleepsweetly/download-tracker",
+    "release_url": "https://github.com/sleepsweetly/download-tracker",
+    "github_repo": "sleepsweetly/download-tracker",
+    "icon_path": null,
+    "category": "Audio",
+    "platform": "Windows",
+    "min_system_requirements": {
+      "os": "Windows 10",
+      "ram": "No Need",
+      "disk": "50Mb"
+    },
+    "screenshots": [
+      "https://example.com/screenshots/aurafxstudio-1.jpg",
+      "https://example.com/screenshots/aurafxstudio-2.jpg"
+    ]
+  }
 ]
