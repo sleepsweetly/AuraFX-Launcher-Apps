@@ -1,0 +1,28 @@
+[
+  {
+    "name": "3D Effect Generator for MythicMobs",
+    "description": "Create stunning 3D effects for MythicMobs with OBJ and PNG support",
+    "version": "1.1.1",
+    "download_url": "https://github.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/releases/download/v1.1.1/3D.Effect.Generator.for.MythicMobs.Setup.1.1.1.exe",
+    "update_url": "https://raw.githubusercontent.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/main/update_info.json",
+    "icon_path": null,
+    "changelog": [
+      "Fixed OBJ loading issue",
+      "Improved PNG texture rendering",
+      "Added new particle effects"
+    ]
+  },
+  {
+    "name": "AuraFX Studio",
+    "description": "Professional audio and visual effects editor",
+    "version": "2.0.0",
+    "download_url": "https://example.com/downloads/aurafxstudio_setup.exe",
+    "update_url": "https://example.com/api/updates/aurafxstudio",
+    "icon_path": null,
+    "changelog": [
+      "Added multi-track audio editing",
+      "Updated UI with dark mode",
+      "Bug fixes and performance improvements"
+    ]
+  }
+]
