@@ -20,20 +20,20 @@
     ]
   },
   {
-    "name": "Github Relase Tracker ",
-    "description": "See how many people downloaded your repositories on github",
-    "version": "1.0.0",
-    "download_url": "https://github.com/sleepsweetly/download-tracker",
-    "update_url": "https://github.com/sleepsweetly/download-tracker",
-    "release_url": "https://github.com/sleepsweetly/download-tracker",
-    "github_repo": "sleepsweetly/download-tracker",
+    "name": "AuraFX Studio",
+    "description": "Professional audio and visual effects editor",
+    "version": "2.0.0",
+    "download_url": "https://example.com/downloads/aurafxstudio_setup.exe",
+    "update_url": "https://example.com/api/updates/aurafxstudio",
+    "release_url": "https://example.com/releases/aurafxstudio/2.0.0",
+    "github_repo": "sleepsweetly/AuraFX-Studio",
     "icon_path": null,
     "category": "Audio",
     "platform": "Windows",
     "min_system_requirements": {
       "os": "Windows 10",
-      "ram": "No Need",
-      "disk": "50Mb"
+      "ram": "8GB",
+      "disk": "2GB"
     },
     "screenshots": [
       "https://example.com/screenshots/aurafxstudio-1.jpg",
