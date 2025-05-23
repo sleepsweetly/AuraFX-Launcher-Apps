@@ -1,15 +1,23 @@
 [
   {
-    "name": "AuraFX",
+    "name": "3D Effect Generator for MythicMobs",
     "description": "Create stunning 3D effects for MythicMobs with OBJ and PNG support",
     "version": "1.1.1",
     "download_url": "https://github.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/releases/download/v1.1.1/3D.Effect.Generator.for.MythicMobs.Setup.1.1.1.exe",
     "update_url": "https://raw.githubusercontent.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/main/update_info.json",
+    "release_url": "https://github.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/releases/tag/v1.1.1",
+    "github_repo": "sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-",
     "icon_path": null,
-    "changelog": [
-      "Fixed OBJ loading issue",
-      "Improved PNG texture rendering",
-      "Added new particle effects"
+    "category": "Effects",
+    "platform": "Windows",
+    "min_system_requirements": {
+      "os": "Windows 10",
+      "ram": "4GB",
+      "disk": "500MB"
+    },
+    "screenshots": [
+      "https://example.com/screenshots/3d-effect-generator-1.jpg",
+      "https://example.com/screenshots/3d-effect-generator-2.jpg"
     ]
   },
   {
@@ -18,11 +26,19 @@
     "version": "2.0.0",
     "download_url": "https://example.com/downloads/aurafxstudio_setup.exe",
     "update_url": "https://example.com/api/updates/aurafxstudio",
+    "release_url": "https://example.com/releases/aurafxstudio/2.0.0",
+    "github_repo": "sleepsweetly/AuraFX-Studio",
     "icon_path": null,
-    "changelog": [
-      "Added multi-track audio editing",
-      "Updated UI with dark mode",
-      "Bug fixes and performance improvements"
+    "category": "Audio",
+    "platform": "Windows",
+    "min_system_requirements": {
+      "os": "Windows 10",
+      "ram": "8GB",
+      "disk": "2GB"
+    },
+    "screenshots": [
+      "https://example.com/screenshots/aurafxstudio-1.jpg",
+      "https://example.com/screenshots/aurafxstudio-2.jpg"
     ]
   }
 ]
