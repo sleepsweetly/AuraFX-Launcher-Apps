@@ -24,7 +24,7 @@
       "name": "DownloadTracker",
       "description": "See how many people downloaded your repositories on github",
       "version": "1.0.0",
-      "download_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/releases/assets/987654321",
+      "download_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/releases/assets/257781795",
       "update_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/contents/update_info.json?ref=main",
       "release_url": "https://github.com/sleepsweetly/AuraFX-Launcher-Apps/releases/tag/v1.0.0",
       "github_repo": "sleepsweetly/AuraFX-Launcher-Apps",
