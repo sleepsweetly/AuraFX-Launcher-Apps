@@ -7,7 +7,7 @@
     "update_url": "https://raw.githubusercontent.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/main/update_info.json",
     "release_url": "https://github.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/releases/tag/v1.1.1",
     "github_repo": "sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-",
-    "icon_path": "C:/Program Files (x86)/AuraFX/iicon.ico"
+    "icon_path": "icons/aurafx.png"
     "category": "Effects",
     "platform": "Windows",
     "min_system_requirements": {
