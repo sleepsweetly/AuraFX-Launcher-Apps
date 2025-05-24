@@ -4,10 +4,10 @@
       "name": "AuraFX",
       "description": "Create stunning 3D effects for MythicMobs with OBJ and PNG support",
       "version": "1.1.1",
-      "download_url": "https://github.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/releases/download/v1.1.1/AuraFXSetup.exe",
-      "update_url": "https://raw.githubusercontent.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/main/update_info.json",
-      "release_url": "https://github.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/releases/tag/v1.1.1",
-      "github_repo": "sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-",
+      "download_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/releases/assets/123456789",
+      "update_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/contents/update_info.json?ref=main",
+      "release_url": "https://github.com/sleepsweetly/AuraFX-Launcher-Apps/releases/tag/v1.1.1",
+      "github_repo": "sleepsweetly/AuraFX-Launcher-Apps",
       "icon_path": "icons/aurafx.ico",
       "category": "Effects",
       "platform": "Windows",
@@ -17,17 +17,17 @@
         "disk": "500MB"
       },
       "screenshots": [
-        "https://private-user-images.githubusercontent.com/210547685/446269452-843cca78-d074-4356-903e-21b9f333d630.png"
+        "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/contents/screenshots/aurafx-1.png?ref=main"
       ]
     },
     {
       "name": "DownloadTracker",
       "description": "See how many people downloaded your repositories on github",
       "version": "1.0.0",
-      "download_url": "https://github.com/sleepsweetly/download-tracker/releases/download/v1.0.0/tracker.exe",
-      "update_url": "https://github.com/sleepsweetly/download-tracker/releases/download/v1.0.0/tracker.exe",
-      "release_url": "https://github.com/sleepsweetly/download-tracker/releases/download/v1.0.0/tracker.exe",
-      "github_repo": "sleepsweetly/AuraFX-Studio",
+      "download_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/releases/assets/987654321",
+      "update_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/contents/update_info.json?ref=main",
+      "release_url": "https://github.com/sleepsweetly/AuraFX-Launcher-Apps/releases/tag/v1.0.0",
+      "github_repo": "sleepsweetly/AuraFX-Launcher-Apps",
       "icon_path": null,
       "category": "Audio",
       "platform": "Windows",
@@ -37,8 +37,7 @@
         "disk": "1GB"
       },
       "screenshots": [
-        "https://example.com/screenshots/aurafxstudio-1.jpg",
-        "https://example.com/screenshots/aurafxstudio-2.jpg"
+        "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/contents/screenshots/tracker-1.png?ref=main"
       ]
     }
   ]
