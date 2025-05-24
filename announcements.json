@@ -1,1 +1,16 @@
-test
+{
+  "announcements": [
+    {
+      "type": "info",
+      "title": "Aurafx",
+      "message": "AuraFX gecici bir süreligine kapali",
+      "created_at": "2024-06-01"
+    },
+    {
+      "type": "warning",
+      "title": "Update Required",
+      "message": "A critical update is available. Please update your launcher.",
+      "created_at": "2024-06-02"
+    }
+  ]
+}
