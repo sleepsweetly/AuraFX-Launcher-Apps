@@ -3,10 +3,10 @@
     {
       "name": "AuraFX",
       "description": "Create stunning 3D effects for MythicMobs with OBJ and PNG support",
-      "version": "1.1.1",
+      "version": "1.1.0",
       "download_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/releases/assets/257781564",
       "update_url": "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/contents/update_info.json?ref=main",
-      "release_url": "https://github.com/sleepsweetly/AuraFX-Launcher-Apps/releases/tag/v1.1.1",
+      "release_url": "https://github.com/sleepsweetly/AuraFX-Launcher-Apps/releases/tag/v1.1.0",
       "github_repo": "sleepsweetly/AuraFX-Launcher-Apps",
       "icon_path": "icons/aurafx.ico",
       "category": "Effects",
@@ -15,10 +15,7 @@
         "os": "Windows 10",
         "ram": "4GB",
         "disk": "500MB"
-      },
-      "screenshots": [
-        "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/contents/screenshots/aurafx-1.png?ref=main"
-      ]
+      }
     },
     {
       "name": "DownloadTracker",
@@ -35,10 +32,7 @@
         "os": "Windows 10",
         "ram": "1GB",
         "disk": "1GB"
-      },
-      "screenshots": [
-        "https://api.github.com/repos/sleepsweetly/AuraFX-Launcher-Apps/contents/screenshots/tracker-1.png?ref=main"
-      ]
+      }
     }
   ]
-}
+} 
