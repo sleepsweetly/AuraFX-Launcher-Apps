@@ -1,0 +1,14 @@
+{
+  "apps": {
+    "AuraFX": {
+      "latest_version": "1.1.4",
+      "download_url": "https://github.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/releases/download/v1.1.3/AuraFXSetup.exe",
+      "changelog": "- Added new features\n- Bug fixes"
+    },
+    "DownloadTracker": {
+      "latest_version": "1.0.0", 
+      "download_url": "https://github.com/sleepsweetly/download-tracker/releases/download/v1.0.0/tracker.exe",
+      "changelog": "- Initial release"
+    }
+  }
+}
