@@ -34,5 +34,19 @@
         "disk": "1GB"
       }
     }
-  ]
+  ],
+  "updates": {
+    "apps": {
+      "AuraFX": {
+        "latest_version": "1.1.5",
+        "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
+        "changelog": "- Added new features\n- Bug fixes"
+      },
+      "DownloadTracker": {
+        "latest_version": "1.0.0", 
+        "download_url": "https://github.com/sleepsweetly/download-tracker/releases/download/v1.0.0/tracker.exe",
+        "changelog": "- Initial release"
+      }
+    }
+  }
 }
