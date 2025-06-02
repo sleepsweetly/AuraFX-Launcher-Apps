@@ -1,1 +1,13 @@
-1.0.1
+{
+  "launcher": {
+    "latest_version": "1.1.0",
+    "download_url": "https://github.com/sleepsweetly/AuraFX-Launcher-Apps/releases/download/v1.1.0/AuraLauncher-Setup.exe",
+    "changelog": [
+      "Yeni özellikler eklendi",
+      "Performans iyileştirmeleri yapıldı",
+      "Arayüz hataları düzeltildi"
+    ],
+    "required_update": false,
+    "release_date": "2023-12-15"
+  }
+}
