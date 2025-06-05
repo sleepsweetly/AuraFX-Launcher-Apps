@@ -1,34 +1,64 @@
 {
   "announcements": [
     {
+      "type": "info",
+      "title": "Welcome",
+      "message": "Welcome to Lanuncher! Explore amazing applications and features.",
+      "created_at": "2025-01-05"
+    },
+    {
+      "type": "update",
+      "title": "New Update Available",
+      "message": "Version 2.1.0 is now available with improved performance and bug fixes.",
+      "created_at": "2025-01-06"
+    },
+    {
       "type": "maintenance",
-      "title": "Önemli",
-      "message": "Henüz geliştirme aşamasında bu uygulama",
-      "created_at": "2025-05-28"
+      "title": "Scheduled Maintenance",
+      "message": "Server maintenance will begin at 2:00 AM UTC on January 8th.",
+      "created_at": "2025-01-07"
+    },
+    {
+      "type": "feature",
+      "title": "New Feature",
+      "message": "Dark mode theme support has been added to enhance your experience.",
+      "created_at": "2025-01-08"
     },
     {
       "type": "warning",
-      "title": "Test",
-      "message": "Test1",
-      "created_at": "2025-06-01"
+      "title": "Important Notice",
+      "message": "Please backup your data before updating to the latest version.",
+      "created_at": "2025-01-09"
+    },
+    {
+      "type": "security",
+      "title": "Security Update",
+      "message": "Critical security patches have been applied. Please restart the application.",
+      "created_at": "2025-01-10"
+    },
+    {
+      "type": "success",
+      "title": "Migration Complete",
+      "message": "Database migration has been successfully completed with zero downtime.",
+      "created_at": "2025-01-11"
     },
     {
       "type": "error",
-      "title": "test2",
-      "message": "test2",
-      "created_at": "2025-06-02"
+      "title": "Service Disruption",
+      "message": "Some services may be temporarily unavailable due to network issues.",
+      "created_at": "2025-01-12"
     },
     {
       "type": "info",
-      "title": "Bilgilendirme",
-      "message": "Sunucu bakımı 3 Haziran'da saat 02:00'de başlayacak.",
-      "created_at": "2025-06-01"
+      "title": "Community Event",
+      "message": "Join our Discord server for the upcoming community gaming tournament!",
+      "created_at": "2025-01-13"
     },
     {
-      "type": "maintenance",
-      "title": "Planlı Bakım",
-      "message": "Performans iyileştirmeleri için sistem geçici olarak durdurulacak.",
-      "created_at": "2025-06-03"
+      "type": "loading",
+      "title": "System Status",
+      "message": "All systems are operational and running smoothly. Thank you for using AuraLauncher.",
+      "created_at": "2025-01-14"
     }
   ]
 }
