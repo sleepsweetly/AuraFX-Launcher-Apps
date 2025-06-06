@@ -11,6 +11,7 @@
       "icon_path": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/refs/heads/main/icons/aurafx.ico",
       "category": "Effects",
       "platform": "Windows",
+      "portable": false,
       "min_system_requirements": {
         "os": "Windows 10",
         "ram": "4GB",
@@ -28,6 +29,7 @@
       "icon_path": "https://i.pinimg.com/736x/81/5f/cc/815fcc37ca4c4a40f0d58990d6cd0ccc.jpg",
       "category": "Audio",
       "platform": "Windows",
+      "portable": true,
       "min_system_requirements": {
         "os": "Windows 10",
         "ram": "1GB",
