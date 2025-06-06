@@ -3,7 +3,7 @@
     {
       "type": "info",
       "title": "Welcome",
-      "message": "Welcome to Lanuncher! Explore amazing applications and features.",
+      "message": "Welcome to Lanuncher! ",
       "created_at": "2025-01-05"
     },
     {
@@ -15,49 +15,49 @@
     {
       "type": "maintenance",
       "title": "Scheduled Maintenance",
-      "message": "Server maintenance will begin at 2:00 AM UTC on January 8th.",
+      "message": "p",
       "created_at": "2025-01-07"
     },
     {
       "type": "feature",
       "title": "New Feature",
-      "message": "Dark mode theme support has been added to enhance your experience.",
+      "message": "De.",
       "created_at": "2025-01-08"
     },
     {
       "type": "warning",
       "title": "Important Notice",
-      "message": "Please backup your data before updating to the latest version.",
+      "message": "Pon.",
       "created_at": "2025-01-09"
     },
     {
       "type": "security",
       "title": "Security Update",
-      "message": "Critical security patches have been applied. Please restart the application.",
+      "message": "Cication.",
       "created_at": "2025-01-10"
     },
     {
       "type": "success",
       "title": "Migration Complete",
-      "message": "Database migration has been successfully completed with zero downtime.",
+      "message": "Dame.",
       "created_at": "2025-01-11"
     },
     {
       "type": "error",
       "title": "Service Disruption",
-      "message": "Some services may be temporarily unavailable due to network issues.",
+      "message": "Ses.",
       "created_at": "2025-01-12"
     },
     {
       "type": "info",
       "title": "Community Event",
-      "message": "Join our Discord server for the upcoming community gaming tournament!",
+      "message": "Jt!",
       "created_at": "2025-01-13"
     },
     {
       "type": "loading",
       "title": "System Status",
-      "message": "All systems are operational and running smoothly. Thank you for using AuraLauncher.",
+      "message": "Alr.",
       "created_at": "2025-01-14"
     }
   ]
