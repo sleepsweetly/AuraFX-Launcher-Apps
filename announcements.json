@@ -15,49 +15,49 @@
     {
       "type": "maintenance",
       "title": "Scheduled Maintenance",
-      "message": "p",
+      "message": "maintan zimbirtisi test",
       "created_at": "2025-01-07"
     },
     {
       "type": "feature",
       "title": "New Feature",
-      "message": "De.",
+      "message": "feature zimbirtisi test.",
       "created_at": "2025-01-08"
     },
     {
       "type": "warning",
       "title": "Important Notice",
-      "message": "Pon.",
+      "message": "uyaritest ye.",
       "created_at": "2025-01-09"
     },
     {
       "type": "security",
       "title": "Security Update",
-      "message": "Cication.",
+      "message": "güvenlik seysi test.",
       "created_at": "2025-01-10"
     },
     {
       "type": "success",
       "title": "Migration Complete",
-      "message": "Dame.",
+      "message": "basarili sesyi test.",
       "created_at": "2025-01-11"
     },
     {
       "type": "error",
       "title": "Service Disruption",
-      "message": "Ses.",
+      "message": "error seysi test muhtemel.",
       "created_at": "2025-01-12"
     },
     {
       "type": "info",
       "title": "Community Event",
-      "message": "Jt!",
+      "message": "info test ye!",
       "created_at": "2025-01-13"
     },
     {
       "type": "loading",
       "title": "System Status",
-      "message": "Alr.",
+      "message": "loading test neden var amk bu.",
       "created_at": "2025-01-14"
     }
   ]
