@@ -5,6 +5,18 @@
       "title": "duyuru test",
       "message": "duyurulari test ediyom acaba calsiiyomu",
       "created_at": "2025-06-07"
+    },
+    {
+      "type": "update",
+      "title": "test2",
+      "message": "test2",
+      "created_at": "2025-06-07"
+    },
+    {
+      "type": "warning",
+      "title": "ea",
+      "message": "fwedasfw",
+      "created_at": "2025-06-07"
     }
   ]
 }
