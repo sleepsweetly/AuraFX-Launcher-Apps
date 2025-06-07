@@ -35,24 +35,6 @@
         "ram": "1GB",
         "disk": "1GB"
       }
-    },
-    {
-      "name": "test",
-      "description": "test ediom",
-      "version": "1",
-      "download_url": "",
-      "update_url": "",
-      "release_url": "",
-      "github_repo": "",
-      "icon_path": "",
-      "category": "Mythic",
-      "platform": "Windows",
-      "portable": true,
-      "min_system_requirements": {
-        "os": "Windows 10",
-        "ram": "4GB",
-        "disk": "500MB"
-      }
     }
   ],
   "updates": {
@@ -65,11 +47,6 @@
       "DownloadTracker": {
         "latest_version": "1.0.0",
         "download_url": "https://github.com/sleepsweetly/download-tracker/releases/download/v1.0.0/tracker.exe",
-        "changelog": "- Initial release"
-      },
-      "test": {
-        "latest_version": "1",
-        "download_url": "",
         "changelog": "- Initial release"
       }
     }
