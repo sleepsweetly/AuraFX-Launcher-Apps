@@ -35,24 +35,6 @@
         "ram": "1GB",
         "disk": "1GB"
       }
-    },
-    {
-      "name": "Nasılsın",
-      "description": "iyiiym",
-      "version": "1",
-      "download_url": "t",
-      "update_url": "t",
-      "release_url": "t",
-      "github_repo": "t",
-      "icon_path": "https://i.pinimg.com/736x/ba/e8/03/bae8038ef6bb0b2f9a33485bbcf6377c.jpg",
-      "category": "test",
-      "platform": "Windows",
-      "portable": true,
-      "min_system_requirements": {
-        "os": "Windows 10",
-        "ram": "4GB",
-        "disk": "500MB"
-      }
     }
   ],
   "updates": {
@@ -66,11 +48,6 @@
         "latest_version": "1.0.0",
         "download_url": "https://github.com/sleepsweetly/download-tracker/releases/download/v1.0.0/tracker.exe",
         "changelog": "- Initial release"
-      },
-      "Nasılsın": {
-        "latest_version": "1",
-        "download_url": "t",
-        "changelog": "te"
       }
     }
   }
