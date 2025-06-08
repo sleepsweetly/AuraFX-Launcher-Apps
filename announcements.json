@@ -1,12 +1,6 @@
 {
   "announcements": [
     {
-      "type": "feature",
-      "title": "duyuru test",
-      "message": "duyurulari test ediyom acaba calsiiyomu",
-      "created_at": "2025-06-07"
-    },
-    {
       "type": "update",
       "title": "test2",
       "message": "test2",
