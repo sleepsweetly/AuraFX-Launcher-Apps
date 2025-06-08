@@ -35,6 +35,24 @@
         "ram": "1GB",
         "disk": "1GB"
       }
+    },
+    {
+      "name": "olm",
+      "description": "easdfew",
+      "version": "1",
+      "download_url": "x",
+      "update_url": "x",
+      "release_url": "",
+      "github_repo": "x",
+      "icon_path": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/icons/olm_icon.png",
+      "category": "af",
+      "platform": "Windows",
+      "portable": false,
+      "min_system_requirements": {
+        "os": "Windows 10",
+        "ram": "4GB",
+        "disk": "500MB"
+      }
     }
   ],
   "updates": {
@@ -58,6 +76,11 @@
         "latest_version": "1.1.5",
         "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
         "changelog": "- Güncelleme"
+      },
+      "olm": {
+        "latest_version": "1",
+        "download_url": "x",
+        "changelog": "- İlk sürüm"
       }
     }
   }
