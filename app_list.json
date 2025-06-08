@@ -37,17 +37,17 @@
       }
     },
     {
-      "name": "Au",
-      "description": "Auuuuuuuuuussssssssssssyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyuyu",
+      "name": "YE",
+      "description": "abinin amına koyayimla\n",
       "version": "1.1.5",
       "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
       "update_url": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/update_info.json",
       "release_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
       "github_repo": "sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-",
       "icon_path": "https://i.pinimg.com/736x/cb/42/a0/cb42a0d246b02689eb30931e94da76fc.jpg",
-      "category": "ea",
+      "category": "LOL",
       "platform": "Windows",
-      "portable": false,
+      "portable": true,
       "min_system_requirements": {
         "os": "Windows 10",
         "ram": "4GB",
@@ -70,7 +70,12 @@
       "Au": {
         "latest_version": "1.1.5",
         "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
-        "changelog": "- Added new features\n- Bug fixes"
+        "changelog": "- Güncelleme"
+      },
+      "YE": {
+        "latest_version": "1.1.5",
+        "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
+        "changelog": "- Güncelleme"
       }
     }
   }
