@@ -51,6 +51,11 @@
       },
       "undefined": {
         "changelog": "- İlk sürüm"
+      },
+      "wf": {
+        "latest_version": "ewdf",
+        "download_url": "",
+        "changelog": "- Güncelleme"
       }
     }
   }
