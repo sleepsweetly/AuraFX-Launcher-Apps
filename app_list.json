@@ -3,7 +3,7 @@
     {
       "name": "AuraFX",
       "description": "Create stunning 3D effects for MythicMobs with OBJ and PNG support",
-      "version": "1.1.5",
+      "version": "2",
       "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
       "update_url": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/update_info.json",
       "release_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
@@ -40,7 +40,7 @@
   "updates": {
     "apps": {
       "AuraFX": {
-        "latest_version": "1.1.5",
+        "latest_version": "2",
         "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
         "changelog": "- Güncelleme"
       },
