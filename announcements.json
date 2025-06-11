@@ -2,9 +2,15 @@
   "announcements": [
     {
       "type": "info",
-      "title": ".",
+      "title": "Launcher*",
       "message": "Welcome",
       "created_at": "2025-06-08"
+    },
+    {
+      "type": "maintenance",
+      "title": "AuraFX Beta Notice",
+      "message": "AuraFX is currently in beta. If you encounter any issues, please report them at discord/yaslicadi.",
+      "created_at": "2025-06-11"
     }
   ]
 }
