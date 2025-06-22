@@ -5,6 +5,24 @@
       "title": "AuraFX has officially left beta!",
       "message": "It’s now in stable release — or at least that’s what I like to believe 😎\nIf you find any bugs (please don’t 🙏), let me know on Discord: yaslicadi\nI’ll fix them. Probably.",
       "created_at": "2025-06-19"
+    },
+    {
+      "type": "update",
+      "title": " 3D Editor is here!",
+      "message": "Now you can design, animate and export your AuraFX creations with full 3D control.\nTry it now and generate even more stunning effects!\nhttps://aurafx.vercel.app",
+      "created_at": "2025-06-22"
+    },
+    {
+      "type": "info",
+      "title": "Join the AuraFX community!",
+      "message": "Share your effects, request features, or just hang out with other creators.\nWe’re growing fast, and your feedback matters.\n\n📌 Discord: https://discord.gg/m4c6JuUD",
+      "created_at": "2025-06-22"
+    },
+    {
+      "type": "feature",
+      "title": "Thank you for 1000+ effect generations!",
+      "message": "AuraFX is growing thanks to all of you.\nStay tuned for upcoming features and improvements!",
+      "created_at": "2025-06-22"
     }
   ]
 }
