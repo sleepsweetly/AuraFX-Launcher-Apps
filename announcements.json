@@ -3,14 +3,14 @@
     {
       "type": "info",
       "title": "Join the AuraFX community!",
-      "message": "Share your effects, request features, or just hang out with other creators.\nWe’re growing fast, and your feedback matters.\n\n📌 Discord: https://discord.gg/m4c6JuUD",
-      "created_at": "2025-06-22"
+      "message": "Share your effects, request features, or just hang out with other creators.\nWe’re growing fast, and your feedback matters.\n\n📌 Discord: https://discord.gg/4B8rGgzu",
+      "created_at": "10 Αυγούστου 2025"
     },
     {
       "type": "update",
-      "title": " 3D Editor is here!",
-      "message": "Now you can design, animate and export your AuraFX creations with full 3D control.\nTry it now and generate even more stunning effects!\nhttps://aurafx.online",
-      "created_at": "2025-06-22"
+      "title": " 3D Editor ",
+      "message": "Various bug fixes were made in the 3D editor and the UI was renewed.",
+      "created_at": "10 Αυγούστου 2025"
     }
   ]
 }
