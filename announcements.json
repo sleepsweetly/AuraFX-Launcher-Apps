@@ -1,9 +1,9 @@
 {
   "announcements": [
     {
-      "type": "info",
-      "title": "----------------------",
-      "message": "I guess not",
+      "type": "feature",
+      "title": "Chain Mode Released",
+      "message": "Chain Mode generates code based on the sequence of elements you add. It also comes with a Record Button, which tracks the exact order of elements and the time between them (in ticks). This data is then used during code generation to create smooth and dynamic animations.",
       "created_at": "2025-08-13"
     }
   ]
