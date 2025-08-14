@@ -2,9 +2,15 @@
   "announcements": [
     {
       "type": "feature",
-      "title": "Chain Mode Released",
-      "message": "Chain Mode generates code based on the sequence of elements you add. It also comes with a Record Button, which tracks the exact order of elements and the time between them (in ticks). This data is then used during code generation to create smooth and dynamic animations.",
-      "created_at": "2025-08-13"
+      "title": "Major Mode System Update",
+      "message": "Effect modes have been completely redesigned. Multiple modes can now be used simultaneously. Create spinning rainbow effects with Rotate + Rainbow combinations. Speed controls optimized with enhanced settings panel.",
+      "created_at": "2025-08-14"
+    },
+    {
+      "type": "info",
+      "title": "Performance Improvements and Bug Fixes",
+      "message": "Rotate mode speed settings fixed with more precise control. Local Rotate mode optimized for solar system effects. User interface improvements implemented and unnecessary notifications removed.",
+      "created_at": "2025-08-14"
     }
   ]
 }
