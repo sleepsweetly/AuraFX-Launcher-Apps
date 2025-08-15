@@ -2,8 +2,8 @@
   "announcements": [
     {
       "type": "feature",
-      "title": "Major Mode System Update",
-      "message": "Effect modes have been completely redesigned. Multiple modes can now be used simultaneously. Create spinning rainbow effects with Rotate + Rainbow combinations. Speed controls optimized with enhanced settings panel.",
+      "title": "gif mode",
+      "message": "I added this thing called GIF mode, but I have no idea what you’d use it for.",
       "created_at": "2025-08-14"
     },
     {
