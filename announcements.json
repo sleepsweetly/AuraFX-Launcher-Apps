@@ -10,7 +10,8 @@
       "type": "info",
       "title": "test",
       "message": "testimage",
-      "created_at": "2025-08-16"
+      "created_at": "2025-08-16",
+      "image": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/icons/test_announcement.png"
     }
   ]
 }
