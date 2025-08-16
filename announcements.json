@@ -5,6 +5,12 @@
       "title": "gif mode",
       "message": "I added this thing called GIF mode, but I have no idea what you’d use it for.",
       "created_at": "2025-08-14"
+    },
+    {
+      "type": "info",
+      "title": "test",
+      "message": "testimage",
+      "created_at": "2025-08-16"
     }
   ]
 }
