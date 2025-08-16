@@ -6,13 +6,6 @@
       "message": "Welcome to AuraFX",
       "created_at": "2025-08-16",
       "image": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/icons/welcome__announcement.png"
-    },
-    {
-      "type": "info",
-      "title": "salihinamk",
-      "message": ".",
-      "created_at": "2025-08-16",
-      "image": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/icons/salihinamk_announcement.png"
     }
   ]
 }
