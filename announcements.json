@@ -6,6 +6,13 @@
       "message": "Welcome to AuraFX",
       "created_at": "2025-08-16",
       "image": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/icons/welcome__announcement.png"
+    },
+    {
+      "type": "error",
+      "title": "Looking for New Feature Ideas",
+      "message": "I’m a bit bored and want to add some new features, but I can’t think of any. Share your ideas—maybe we can create something cool together",
+      "created_at": "2025-09-01",
+      "image": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/icons/looking_for_new_feature_ideas_announcement.png"
     }
   ]
 }
