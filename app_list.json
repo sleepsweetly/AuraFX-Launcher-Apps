@@ -1,6 +1,29 @@
 {
-  "apps": [],
+  "apps": [
+    {
+      "name": "AuraFX",
+      "description": "Mythicmobs Effect Generator /LEGACY",
+      "version": "1.0.1",
+      "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
+      "update_url": "https://raw.githubusercontent.com/sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-/refs/heads/main/update_info.json",
+      "github_repo": "sleepsweetly/3D-Effect-Generator-for-MythicMobs-OBJ-PNG-",
+      "icon_path": "https://raw.githubusercontent.com/sleepsweetly/AuraFX-Launcher-Apps/main/icons/aurafx_icon.png",
+      "category": "game",
+      "platform": "Windows",
+      "min_system_requirements": {
+        "os": "Windows 10",
+        "ram": "4GB",
+        "disk": "500MB"
+      }
+    }
+  ],
   "updates": {
-    "apps": {}
+    "apps": {
+      "AuraFX": {
+        "latest_version": "1.0.1",
+        "download_url": "https://github.com/sleepsweetly/ASDOLVFK-MWSSDG/releases/download/wesdf/AuraFXSetup.exe",
+        "changelog": "- İlk sürüm"
+      }
+    }
   }
 }
