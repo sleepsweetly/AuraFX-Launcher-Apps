@@ -1,3 +1,10 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "type": "feature",
+      "title": "Welcome",
+      "message": "Welcome to \"new\" AuraFX",
+      "created_at": "2025-10-07"
+    }
+  ]
 }
